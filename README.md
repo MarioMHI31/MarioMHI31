@@ -20,7 +20,7 @@ In prezent sunt student al facultatii de Inginerie și Informatică Spiru Haret.
 
 ---
 
-## 🚀 Proiecte (în curând pe acest profil):
+## 🚀 Proiecte :
 - 📝 Blog Django – aplicație CRUD cu autentificare și categorii
 - ✅ Task Manager – aplicație de management personal de taskuri
 - 🔄 Automatizare cu Selenium – script de completat formulare online
